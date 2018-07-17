@@ -12,7 +12,7 @@ I will be dividing this series of tutorials into five parts:
     Part 5: Random Forests
 
 This repository contains all code used in the five part tutorial that can be found here:
-http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r
+https://rsachin2453.github.io/titanic/.
 
 If you have any questions about these lessons, I’d encourage you to post them to the Kaggle forums:
 http://www.kaggle.com/c/titanic-gettingStarted/forums
